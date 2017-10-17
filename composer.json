@@ -9,10 +9,16 @@
             "email": "ymihaylov@despark.com"
         }
     ],
+    "repositories": [
+	{
+		"type": "vcs",
+		"url": "https://github.com/GruulDev/laravel-facebook-sdk",
+		"no-api": true
+	},
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.2.*",
-        "sammyk/laravel-facebook-sdk": "2.0",
+        "GruulDev/laravel-facebook-sdk": "2.0",
         "abraham/twitteroauth": "0.*"
     },
     "autoload": {
