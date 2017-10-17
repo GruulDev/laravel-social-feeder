@@ -19,7 +19,6 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.2.*",
-        "GruulDev/laravel-facebook-sdk": "1.3-dev",
         "abraham/twitteroauth": "0.*"
     },
     "autoload": {
